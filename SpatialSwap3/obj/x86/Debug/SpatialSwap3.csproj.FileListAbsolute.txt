@@ -38,3 +38,13 @@ G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap
 G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
 G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
 G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csproj.GenerateResource.Cache
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe.config
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.exe
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.pdb
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3Config.xml
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.pdb
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csprojResolveAssemblyReference.cache
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
+G:\_GITHUB\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csproj.GenerateResource.Cache
