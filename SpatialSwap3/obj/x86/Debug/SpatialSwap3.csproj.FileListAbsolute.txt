@@ -1,0 +1,40 @@
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.pdb
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.exe
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.pdb
+C:\Documents and Settings\knall\My Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3Config.xml
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.exe
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.pdb
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3Config.xml
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.pdb
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csproj.GenerateResource.Cache
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csprojResolveAssemblyReference.cache
+C:\Users\knall\Documents\Visual Studio 2010\Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe.config
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe.config
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.exe
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.pdb
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3Config.xml
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.pdb
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csprojResolveAssemblyReference.cache
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
+C:\Users\knall\Desktop\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csproj.GenerateResource.Cache
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe.config
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.exe
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.pdb
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3Config.xml
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.exe
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\bin\Debug\SpatialSwap3.pdb
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csprojResolveAssemblyReference.cache
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Form1.resources
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.Properties.Resources.resources
+G:\_DEV\RDS\Copy of Projects\SpatialSwap3\SpatialSwap3\obj\x86\Debug\SpatialSwap3.csproj.GenerateResource.Cache
